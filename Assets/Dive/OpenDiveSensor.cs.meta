@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9db6421691659684d915086e04c493c2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rotation_gameobject: {instanceID: 0}
+  - nogyrotexture: {fileID: 2800000, guid: 286000da31c179247a31fdf256605ee2, type: 3}
+  - cameraleft: {instanceID: 0}
+  - cameraright: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
